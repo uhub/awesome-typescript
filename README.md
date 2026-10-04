@@ -162,6 +162,7 @@ A curated list of awesome TypeScript frameworks, libraries and software.
 * [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 * [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 * [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
+* [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Record a coding-agent run below the harness, then replay it offline with the network off or fork it from any checkpoint onto a different model. Captures model traffic, shell exit codes, per-turn file changes and MCP calls on one timeline.
 
 ### Editor and IDE Support
 
